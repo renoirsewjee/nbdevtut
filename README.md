@@ -22,3 +22,17 @@ say_hello("Renzo")
     'Hello Renzo!'
 
 
+
+One can also use a class to say hello
+
+```python
+c = HelloSayer("Classy")
+c.say()
+```
+
+
+
+
+    'Hello Classy!'
+
+
